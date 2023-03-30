@@ -1,0 +1,20 @@
+Because we are simulation vr for development.
+
+Right click and drag the mouse to properly set headset height.
+
+Press LShift with w,a,s,d to move.
+If you are still moving after relesing w,a,s,d press LShift.
+
+To look around press LCtrl + Right Click Mouse.
+
+
+The Game:
+
+Collect coins and find fun trivia facts about covid.
+
+Try to avoid the nasty virus while in the maze. 
+
+Use coins to buy upgrades for the player like masks, vaccines and vr goggles.
+These upgrades reduce the damage(-33) taken by the player.
+
+If your health hits 0 its GameOver.
